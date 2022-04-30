@@ -1,8 +1,8 @@
 # Registration-and-Login-system-with-Python-file-handling
 
 STAGE -- 1 
-Registration
 
+Registration
 When the user chooses to Register
 
 ---> email/username should have "@" and followed by "."
@@ -23,10 +23,6 @@ When the user chooses to Register
 
 Stage 2 
   Once the username and password are validated, store those values in a file
-
-
-
-
 
 Stage 3
 Login
