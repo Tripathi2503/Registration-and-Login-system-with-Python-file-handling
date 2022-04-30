@@ -1,6 +1,6 @@
 # Registration-and-Login-system-with-Python-file-handling
 
-STAGE -- 1 
+**STAGE -- 1** 
 
 Registration
 When the user chooses to Register
@@ -21,10 +21,10 @@ When the user chooses to Register
               one uppercase, 
               one lowercase character 
 
-Stage 2 
+**STAGE 2** 
   Once the username and password are validated, store those values in a file
 
-Stage 3
+**STAGE 3**
 Login
  When the user chooses to Login, check whether his/her credentials exist in the file or not based on the user input 
 If doesn’t exist ask them to go for Registration or 
